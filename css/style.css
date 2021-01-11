@@ -1,0 +1,12 @@
+body {
+  min-height: 800px;
+}
+
+.service-item {
+  transition: all 0.3s ease-in-out;
+}
+
+.service-item:hover {
+  color: #ffffff;
+  background: #03a2c2;
+}
